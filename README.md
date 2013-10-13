@@ -26,6 +26,7 @@ The JS function accepts a few parameters:
 
 3. A switch to test in browsers that are not iOS7 based. Use 1 if you'd like to test in an alternative browser.
 
+
 	// pass class for body, added element's class, 0 or 1
 	// 1 = for non ios7 testing
 	ios7StatusBarBump('ios7-detected','status-bar-bump',0);
