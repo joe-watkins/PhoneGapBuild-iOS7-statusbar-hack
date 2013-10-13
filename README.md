@@ -18,14 +18,7 @@ You may need to adjust this to fit into your project.
 Be sure to include [jQuery](http://jquery.com/) in your project for this script to function.
 
 ## JS Overview
-The JS function accepts a few parameters:
-
-1. The class that you want to add to the body of the document for styling
-
-2. The class you'd like to give to the element that you will add to the dom
-
-3. A switch to test in browsers that are not iOS7 based. Use 1 if you'd like to test in an alternative browser.
-
+The JS function accepts a few parameters:The class that you want to add to the body of the document for styling, the class you'd like to give to the element that you will add to the dom, and switch to test in browsers that are not iOS7 based. Use 1 if you'd like to test in an alternative browser.
 
 	// pass class for body, added element's class, 0 or 1
 	// 1 = for non ios7 testing
