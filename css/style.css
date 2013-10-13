@@ -1,0 +1,12 @@
+.ios7-detected > div {
+	margin-top:20px;
+}
+.ios7-detected .status-bar-bump {
+	z-index: 9999;
+	height:20px;
+	position: fixed;
+  top:0px;
+	left:0px;
+	right:0px;
+	background:rgba(0,0,0,1);
+}
