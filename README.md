@@ -2,7 +2,7 @@
 
 _by Joe Watkins - Oct 2013_
 
-These files are a quick 'band-aid' fix for a bug present in Adobe's PhoneGap Build ver. 2.9.0 which offers and inconsistent status bar at the top of the web app. [View the post in the support forum relating to this topic](http://community.phonegap.com/nitobi/topics/inconsistent_ios_7_status_bar_build_problem )
+These files are a quick 'band-aid' fix for a bug present in Adobe's PhoneGap Build ver. 2.9.0 which offers an inconsistent status bar at the top of the web app for some builds. [View the post in the support forum relating to this topic](http://community.phonegap.com/nitobi/topics/inconsistent_ios_7_status_bar_build_problem )
 
 Adobe mentions a fix for this coming soon,..but until then :)
 
